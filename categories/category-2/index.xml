@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Category-2 on Mind the Life</title><link>http://localhost:1313/categories/category-2/</link><description>Recent content in Category-2 on Mind the Life</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/category-2/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme preview</title><link>http://localhost:1313/post/even-preview/</link><pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate><guid>http://localhost:1313/post/even-preview/</guid><description>&lt;blockquote>
+&lt;p>Based on &lt;a href="https://github.com/facelessuser/MarkdownPreview/blob/master/examples/test.md">MarkdownPreview test.md&lt;/a>.&lt;/p>&lt;/blockquote>
+&lt;h1 id="markdown">Markdown&lt;/h1>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># H1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## H2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### H3
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#### H4
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">##### H5
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">###### H6
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### Duplicate Header
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### Duplicate Header
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h1 id="h1">H1&lt;/h1>
+&lt;h2 id="h2">H2&lt;/h2>
+&lt;h3 id="h3">H3&lt;/h3>
+&lt;h4 id="h4">H4&lt;/h4>
+&lt;h5 id="h5">H5&lt;/h5>
+&lt;h6 id="h6">H6&lt;/h6>
+&lt;h3 id="duplicate-header">Duplicate Header&lt;/h3>
+&lt;h3 id="duplicate-header-1">Duplicate Header&lt;/h3>
+&lt;h2 id="paragraphs">Paragraphs&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This is a paragraph.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">I am still part of the paragraph.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">New paragraph.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This is a paragraph.
+I am still part of the paragraph.&lt;/p></description></item></channel></rss>
